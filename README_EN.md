@@ -10,7 +10,7 @@ Claude Desktop only supports Anthropic's API by default. This project uses Claud
 
 - macOS
 - A [DeepSeek API Key](https://platform.deepseek.com/api_keys)
-- Claude Desktop 1.6608.2 (newer versions restrict third-party inference)
+- Claude Desktop 1.6608.2 (released May 10, 2026 — newer versions restrict third-party inference)
 
 ## Quick Start
 
