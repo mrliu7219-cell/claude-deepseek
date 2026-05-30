@@ -1,5 +1,7 @@
 # Claude Desktop + DeepSeek 配置工具
 
+> [English](README_EN.md)
+
 一键配置 Claude Desktop 使用 DeepSeek 作为第三方推理引擎。
 
 ## 这是做什么的
@@ -81,7 +83,8 @@ Claude Desktop
 
 ```
 ├── install-deepseek.command   # 安装脚本（双击运行）
-└── README.md                  # 本文件
+├── README.md                  # 中文说明
+└── README_EN.md               # English guide
 ```
 
 ## 相关项目
