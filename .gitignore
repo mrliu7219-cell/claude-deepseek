@@ -1,0 +1,11 @@
+# 安装包（版权归属 Anthropic，不纳入版本管理）
+Claude.dmg
+
+# 个人配置文档
+Claude-Desktop-DeepSeek配置步骤.md
+
+# 第三方项目
+claude-desktop-zh-cn-main/
+
+# macOS
+.DS_Store
