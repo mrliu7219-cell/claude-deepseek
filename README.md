@@ -18,7 +18,7 @@ Claude Desktop 官方只支持 Anthropic 的 API。这个项目通过 Claude Des
 
 确保 `/Applications/Claude.app` 已安装。需要 1.6608.2 版本（最新版已限制第三方推理功能）。
 
-> 此版本已无法从官方渠道下载。
+> 安装包可从 [Releases 页面](https://github.com/mrliu7219-cell/claude-deepseek/releases) 下载。
 
 ### 2. 运行安装脚本
 
