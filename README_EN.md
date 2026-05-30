@@ -18,7 +18,7 @@ Claude Desktop only supports Anthropic's API by default. This project uses Claud
 
 Make sure `/Applications/Claude.app` is installed. You need version 1.6608.2.
 
-> The installer can be downloaded from the [Releases page](https://github.com/mrliu7219-cell/claude-deepseek/releases).
+> This version is no longer available from official channels. Contact: mrliu7219@gmail.com
 
 ### 2. Run the Setup Script
 
